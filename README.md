@@ -29,6 +29,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Bancos de dados**
@@ -51,9 +52,11 @@
 
 | Projeto | O que faz | Tecnologias |
 |---|---|---|
+| [**trade-intelligence**](https://github.com/luisbobsled/trade-intelligence) | Inteligência comercial para trade marketing: previsão de demanda (ensemble com 29% menos erro que o baseline), segmentação de clientes, avaliação de campanhas e assistente que responde perguntas em português gerando SQL | Python, LightGBM, Scikit-learn, FastAPI, Streamlit, PostgreSQL, Docker, LLM |
 | [**spam-detector-unimar**](https://github.com/luisbobsled/spam-detector-unimar) | Detecção de e-mails spam com SVM (~92% de acurácia), usando o dataset Spambase (UCI). [App online](https://spam-detector-unimar.streamlit.app/) | Python, Pandas, Scikit-learn, Streamlit |
 | [**camara-fria-iot**](https://github.com/luisbobsled/camara-fria-iot) | Monitoramento de temperatura e umidade de câmara fria: ESP32 + DHT22 → API REST → painel web | ESP32, Supabase, Cloudflare Pages |
 | **BREAK-FIX** | Diagnóstico de falhas em equipamentos com KNN e Random Forest (~98% de acurácia), base com ~16 mil registros | Python, Scikit-learn, FastAPI, Docker |
+| [**Xadrez_3D**](https://github.com/luisbobsled/Xadrez_3D) | Xadrez 3D no navegador com peças modeladas no Blender, animações de batalha e IA adversária | JavaScript, Three.js, Blender |
 
 ## Destaques
 
